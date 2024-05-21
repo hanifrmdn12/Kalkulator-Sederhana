@@ -1,0 +1,16 @@
+D:\Hanif\Coding\Visual Basic\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\net8.0-windows\KalkulatorSederhana.exe
+D:\Hanif\Coding\Visual Basic\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\net8.0-windows\KalkulatorSederhana.deps.json
+D:\Hanif\Coding\Visual Basic\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\net8.0-windows\KalkulatorSederhana.runtimeconfig.json
+D:\Hanif\Coding\Visual Basic\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\net8.0-windows\KalkulatorSederhana.dll
+D:\Hanif\Coding\Visual Basic\KalkulatorSederhana\KalkulatorSederhana\bin\Debug\net8.0-windows\KalkulatorSederhana.pdb
+D:\Hanif\Coding\Visual Basic\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\KalkulatorSederhana.Form1.resources
+D:\Hanif\Coding\Visual Basic\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\KalkulatorSederhana.vbproj.GenerateResource.cache
+D:\Hanif\Coding\Visual Basic\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\KalkulatorSederhana.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hanif\Coding\Visual Basic\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\KalkulatorSederhana.AssemblyInfoInputs.cache
+D:\Hanif\Coding\Visual Basic\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\KalkulatorSederhana.AssemblyInfo.vb
+D:\Hanif\Coding\Visual Basic\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\KalkulatorSederhana.vbproj.CoreCompileInputs.cache
+D:\Hanif\Coding\Visual Basic\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\KalkulatorSederhana.dll
+D:\Hanif\Coding\Visual Basic\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\refint\KalkulatorSederhana.dll
+D:\Hanif\Coding\Visual Basic\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\KalkulatorSederhana.pdb
+D:\Hanif\Coding\Visual Basic\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\KalkulatorSederhana.genruntimeconfig.cache
+D:\Hanif\Coding\Visual Basic\KalkulatorSederhana\KalkulatorSederhana\obj\Debug\net8.0-windows\ref\KalkulatorSederhana.dll
